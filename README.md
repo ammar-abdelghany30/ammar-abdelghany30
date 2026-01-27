@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Ammar Abdelghany 👋
 
-<!--
-**ammar-abdelghany30/ammar-abdelghany30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Engineering student** at **Ain Shams University**, passionate about **problem solving, data analysis, and software development**.
 
-Here are some ideas to get you started:
+## About Me
+- 🚀 **Competitive Programming:** Participated in **ECPC**, honing strong algorithmic and problem-solving skills  
+- 🧪 **Software & Testing Experience:** Algorithms using **Python** with **Fuzetek**, testing principles with **Sprints**  
+- 📊 **Data Analysis:** ALX Data Analysis track student  
+- 🤖 **Machine Learning Enthusiast:** Exploring ML models and practical applications  
+- 💻 **Project Development:** Building projects mainly in **C++**, focusing on efficiency and clean code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m always eager to **learn new technologies, solve challenging problems**, and **build projects that make an impact**.  
+
+Feel free to check out my repositories and connect!

@@ -1,14 +1,49 @@
-# Hi, I'm Ammar Abdelghany 👋
+&lt;h1 align="center"&gt;Hi, I'm Ammar Abdelghany 👋&lt;/h1&gt;
 
-I'm a **Computer Engineering student** at **Ain Shams University**, passionate about **problem solving, data Science, and software development**.
+&lt;p align="center"&gt;
+  NLP Engineer Intern @ Cellula Technologies | ML & LLM Engineering&lt;br&gt;
+  Computer & Systems Engineering Senior @ Ain Shams University
+&lt;/p&gt;
 
-## About Me
-- 🧪 **Software & Testing Experience:** Algorithms using **Python** with **Fuzetek**, testing principles with **Sprints**  
-- 🚀 **Competitive Programming:** Participated in **ECPC**, having algorithmic and problem-solving skills  
-- 📊 **Data Analysis:** ALX Data Analysis track student  
-- 🤖 **Machine Learning Enthusiast:** Exploring ML models buliding practical applications with Cellula Technologies   
-- 💻 **Project Development:** Building projects mainly in **C++** and **Python**  
+---
 
-I’m always eager to **learn new technologies, solve challenging problems**, and **build projects that make an impact**.  
+## 🚀 About Me
 
-Feel free to check out my repositories and connect!
+I'm a Computer & Systems Engineering senior who builds end-to-end AI systems — from classical ML pipelines to production-ready RAG applications and agentic LLM workflows.
+
+- 🔭 Working on **RAG systems, LangGraph agents & MCP integrations** at Cellula Technologies
+- 🤖 Built **SkillGap-AI**, an end-to-end RAG career coach (dual FAISS indexes, 600+ job postings)
+- 📊 Turned a **500K+ row dataset** into a deployed fare-prediction API (Flask + Gradient Boosting)
+- ☁️ Trained on **Huawei Cloud (HCIA – Cloud Service)**: virtualization, KVM, Linux
+- 🧩 ECPC competitive programmer
+- 🌱 Always learning, always shipping
+
+## 🛠️ Tech Stack
+
+**Languages:** Python · C++ · Java · SQL
+
+**ML / AI:** PyTorch · Scikit-learn · Pandas · RAG · LangChain · LangGraph · MCP · Vector Databases · FAISS
+
+**Software:** OOP · Data Structures · Algorithms · Git · Docker · Agile
+
+**Cloud:** Huawei Cloud · KVM · FusionCompute · Linux (openEuler)
+
+## 📌 Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| **SkillGap-AI** — RAG Career Coach | LangChain · FAISS · Streamlit | CV/JD analysis, skill-gap detection & personalized roadmaps |
+| **Uber Fare Prediction** | Scikit-learn · Flask | ML pipeline on 500K+ trips, deployed as a REST API |
+| **XML Social Network Analyzer** | C++ · Qt | Graph visualization + BPE compression (~90% smaller files) |
+| **Distributed Marketplace** | MariaDB · Docker | Sharded data layer using MariaDB Spider Engine |
+
+## 💼 Experience
+
+- **NLP Engineer Intern** — Cellula Technologies *(Sept 2026 – Present)*: NLP pipelines, RAG, LangChain/LangGraph/MCP
+- **ML Engineer Intern** — Cellula Technologies *(Jul – Sept 2026)*: 3 end-to-end ML projects
+- **AI & LLM Trainee** — Tips Hindawi *(Jun – Jul 2026)*: 126-hour Generative AI program
+- **Cloud Trainee** — NTI, Huawei HCIA *(Sept 2026 – Present)*: cloud architecture & virtualization
+
+## 🏅 Certifications
+
+HCIA – Cloud Service (Huawei)· Database Fundamentals (ITI) · Data Analytics (ALX) · Software Testing (Sprints & Microsoft)

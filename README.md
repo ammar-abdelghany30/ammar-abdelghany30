@@ -1,9 +1,9 @@
-&lt;h1 align="center"&gt;Hi, I'm Ammar Abdelghany 👋&lt;/h1&gt;
+<h1 align="center">Hi, I'm Ammar Abdelghany 👋</h1>
 
-&lt;p align="center"&gt;
-  NLP Engineer Intern @ Cellula Technologies | ML & LLM Engineering&lt;br&gt;
+<p align="center">
+  NLP Engineer Intern @ Cellula Technologies | ML & LLM Engineering<br>
   Computer & Systems Engineering Senior @ Ain Shams University
-&lt;/p&gt;
+</p>
 
 ---
 
@@ -33,7 +33,6 @@ I'm a Computer & Systems Engineering senior who builds end-to-end AI systems —
 | Project | Stack | What it does |
 |---|---|---|
 | **SkillGap-AI** — RAG Career Coach | LangChain · FAISS · Streamlit | CV/JD analysis, skill-gap detection & personalized roadmaps |
-| **Uber Fare Prediction** | Scikit-learn · Flask | ML pipeline on 500K+ trips, deployed as a REST API |
 | **XML Social Network Analyzer** | C++ · Qt | Graph visualization + BPE compression (~90% smaller files) |
 | **Distributed Marketplace** | MariaDB · Docker | Sharded data layer using MariaDB Spider Engine |
 
@@ -46,4 +45,4 @@ I'm a Computer & Systems Engineering senior who builds end-to-end AI systems —
 
 ## 🏅 Certifications
 
-HCIA – Cloud Service (Huawei)· Database Fundamentals (ITI) · Data Analytics (ALX) · Software Testing (Sprints & Microsoft)
+HCIA – Cloud Service (Huawei) · Database Fundamentals (ITI) · Data Analytics (ALX) · Software Testing (Sprints & Microsoft)
